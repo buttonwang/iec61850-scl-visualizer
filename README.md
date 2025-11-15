@@ -126,7 +126,7 @@ CREATE INDEX idx_simulation_logs_file_id ON simulation_logs(file_id);
 npm run dev
 ```
 
-访问 http://localhost:3000 查看应用。
+访问 http://localhost:3000 查看应用
 
 ## 使用说明
 
